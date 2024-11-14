@@ -58,7 +58,6 @@ def convertTime(time: str) -> str:
 
 
 
-
 result = convertTime("5:20 pm")
 print("test one: ", result)
 
