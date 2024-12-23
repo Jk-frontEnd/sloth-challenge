@@ -59,19 +59,19 @@ def convertTime(time: str) -> str:
 
 
 result = convertTime("5:20 pm")
-print("test one: ", result)
+# print("test one: ", result)
 
 result = convertTime("5:20 am")
-print("test two: ", result)
+# print("test two: ", result)
 
 result = convertTime("5:60 am")
-print("test three: ", result)
+# print("test three: ", result)
 
 result = convertTime("17:20")
-print("test four: ", result)
+# print("test four: ", result)
 
 result = convertTime("7:40")
-print("test five: ", result)
+# print("test five: ", result)
 
 result = convertTime("26:00")
-print("test five: ", result)
+# print("test five: ", result)
